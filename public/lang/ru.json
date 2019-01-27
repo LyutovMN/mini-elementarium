@@ -3,20 +3,20 @@
     "appDescription": "Информационное приложение по элементам периодической таблицы, с красочным, интуитивно понятным и многоязычным интерфейсом для различных устройств.",
     "ConsultingByMaxim": "Консультант Максим Лютов",
     "chemicalElement": "Химический элемент",
-    "selectLanguage": "выберите язык",
+    "selectLanguage": "Выберите язык",
     "license": "ЛИЦЕНЗИЯ",
     "close": "Закрыть",
-    "back": "вернуться"
+    "back": "Вернуться"
   },
   "families": {
-    "hydrogen": "Водород / Неметалл",
+    "hydrogen": "Неметаллы",
     "nobleGases": "Благородные газы",
-    "halogens": "Галоген",
+    "halogens": "Галогены",
     "alkaliMetals": "Щелочные металлы",
     "alkalineEarthMetals": "Щелочноземельные металлы",
     "transitionMetals": "Переходные металлы",
     "postTransitionMetals": "Постпереходные металлы",
-    "semimetals": "Полуметаллы / металлоиды",
+    "semimetals": "Полуметаллы / Металлоиды",
     "nonMetals": "Неметаллы",
     "lanthanoids": "Лантаноиды",
     "actinoids": "Актиноиды"
