@@ -9,14 +9,14 @@
     "back": "Back"
   },
   "families": {
-    "hydrogen": "Hydrogen / Non-metals",
+    "hydrogen": "Non-metals",
     "nobleGases": "Noble gas",
     "halogens": "Halogens",
     "alkaliMetals": "Alkali metals",
     "alkalineEarthMetals": "Alkaline-earth metals",
     "transitionMetals": "Transition metals",
     "postTransitionMetals": "Post-transition metals",
-    "semimetals": "Semimetals / metalloids",
+    "semimetals": "Semimetals / Metalloids",
     "nonMetals": "Non-metals",
     "lanthanoids": "Lanthanoids",
     "actinoids": "Actinoids"
